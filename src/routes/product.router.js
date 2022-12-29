@@ -63,12 +63,12 @@ productRouter.post("/", async (req, res) => {
 
 //Modificar producto existente, sin cambiar ID. POST
 productRouter.put("/p:id", async (req, res) => {
-  const { pid } = req.params;
+  const { id } = req.params;
   const newProduct = req.body;
 
   try {
     const products = await productFileManager.getAll();
-    const productFindIndex = products.findIndex((product) => product.id === pid);
+    const productFindIndex = products.findIndex((product) => product.id == id);
     if (productFindIndex === -1) {
       res.status(404).send("Producto no encontrado, ingrese otro ID");
       return;
