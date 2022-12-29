@@ -1,0 +1,112 @@
+[
+	{
+		"title": "Remera inuyasha",
+		"description": "Remera de algodon",
+		"price": 1000,
+		"thumbnail": "https://coderhouse.com",
+		"code": "1238",
+		"stock": 10,
+		"status":true,
+		"id": 1
+	},
+	{
+		"title": "Zapatillas pokémon",
+		"description": "Zapatilla converse",
+		"price": 1500,
+		"thumbnail": "https://coderhouse.com",
+		"code": "12334",
+		"stock": 10,
+		"status":true,
+		"id": 2
+	},
+	{
+		"title": "Pantalon DBZ",
+		"description": "Pantalon de mezclilla",
+		"price": 3333,
+		"thumbnail": "https://google.com.ar",
+		"code": "3435352",
+		"stock": 15,
+		"status":true,
+		"id": 3
+	},
+	{
+		"title": "Pantalon kimetsu no yaiba",
+		"description": "Pantalon de mezclilla",
+		"price": 3333,
+		"thumbnail": "https://google.com.ar",
+		"code": "335353",
+		"stock": 15,
+		"status":true,
+		"id": 4
+	},
+	{
+		"title": "Camisa Boku no hero",
+		"description": "Camisa de algodon",
+		"price": 2222,
+		"thumbnail": "https://google.com.ar",
+		"code": "34567",
+		"stock": 5,
+		"status":true,
+		"id": 5
+	},
+	{
+		"title": "Cinturon fire",
+		"description": "Cinturon de cuero",
+		"price": 789876554,
+		"thumbnail": "https://google.com.ar",
+		"code": "987654",
+		"stock": 111,
+		"status":true,
+		"id": 6
+	},
+	{
+		"title": "Pantalon Ranma 1/2",
+		"description": "Pantalon de mezclilla",
+		"price": 3333,
+		"thumbnail": "https://google.com.ar",
+		"code": "343353",
+		"stock": 15,
+		"status":true,
+		"id": 7
+	},
+	{
+		"title": "Pantalon Lapras",
+		"description": "Pantalon de mezclilla",
+		"price": 3333,
+		"thumbnail": "https://google.com.ar",
+		"code": "3435353",
+		"stock": 15,
+		"status":true,
+		"id": 8
+	},
+	{
+		"title": "Camisa alola",
+		"description": "Camisa de algodon",
+		"price": 2420,
+		"thumbnail": "https://google.com.ar",
+		"code": "234567",
+		"stock": 5,
+		"status":true,
+		"id": 9
+	},
+	{
+		"title": "Camisa magnadramon",
+		"description": "Camisa de algodon",
+		"price": 2221,
+		"thumbnail": "https://google.com.ar",
+		"code": "2347",
+		"stock": 5,
+		"status":true,
+		"id": 10
+	},
+	{
+		"title": "Cinturon latigo cepa",
+		"description": "Cinturon de cuero",
+		"price": 7898,
+		"thumbnail": "https://google.com.ar",
+		"code": "9876543",
+		"stock": 11,
+		"status":true,
+		"id": 11
+	}
+]
